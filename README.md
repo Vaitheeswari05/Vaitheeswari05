@@ -3,39 +3,39 @@
 
 🔍 What I'm currently working on:
 
-       -> Optimizing data processing pipelines
-       -> Learning and implementing AWS cloud solutions
-       -> Automating workflows with Jenkins
-       -> Exploring infrastructure as code with Terraform
-       -> Enhancing deployment processes using Ansible
+       -> Optimizing data processing pipelines
+       -> Learning and implementing AWS cloud solutions
+       -> Automating workflows with Jenkins
+       -> Exploring infrastructure as code with Terraform
+       -> Enhancing deployment processes using Ansible
 
 🌟 Looking to collaborate on:
 
-       -> AWS cloud projects
-       -> DevOps automation
-       -> Open-source tools and frameworks
+       -> AWS cloud projects
+       -> DevOps automation
+       -> Open-source tools and frameworks
 
 🤝 Seeking help with:
 
-     -> Advanced AWS configurations
-     -> Best practices in DevOps
+       -> Advanced AWS configurations
+       -> Best practices in DevOps
 
 📚 Currently learning:
 
-     -> Python
-     -> Linux
-     -> AWS - [AWS](https://github.com/Vaitheeswari05/AWS), [AWS Projects](https://github.com/Vaitheeswari05/AWS-Projects)
-     -> Docker - [Docker](https://github.com/Vaitheeswari05/Docker)
-     -> Kubernetes - [Kubernetes](https://github.com/Vaitheeswari05/Kubernetes)
-     -> Jenkins - [Jenkins](https://github.com/Vaitheeswari05/Jenkins)
-     -> Terraform - [Terraform](https://github.com/Vaitheeswari05/Terraform)
-     -> Ansible
+       -> Python
+       -> Linux
+       -> AWS - [AWS](https://github.com/Vaitheeswari05/AWS), [AWS Projects](https://github.com/Vaitheeswari05/AWS-Projects)
+       -> Docker - [Docker](https://github.com/Vaitheeswari05/Docker)
+       -> Kubernetes - [Kubernetes](https://github.com/Vaitheeswari05/Kubernetes)
+       -> Jenkins - [Jenkins](https://github.com/Vaitheeswari05/Jenkins)
+       -> Terraform - [Terraform](https://github.com/Vaitheeswari05/Terraform)
+       -> Ansible
 
 🌐 Fun facts about me:
 
-     -> I love exploring the intersection of technology and creativity.
-     -> In my free time, I enjoy solving puzzles and playing strategy games.
-     -> Let's connect and create something amazing together! 🚀
+       -> I love exploring the intersection of technology and creativity.
+       -> In my free time, I enjoy solving puzzles and playing strategy games.
+       -> Let's connect and create something amazing together! 🚀
 
 
 
