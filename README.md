@@ -1,36 +1,12 @@
 # 💫 About Me:
 👋 Hi there! I'm a passionate AWS DevOps Engineer with a keen interest in all things Cloud and DevOps. Currently, I'm diving deep into the realms of Python,AWS, Docker, Jenkins, Terraform, and Ansible. I'm always eager to collaborate on exciting projects and looking for help to enhance my AWS skills.<br><br>
-
 🔍 What I'm currently working on:<br><br>         
--> Optimizing data processing pipelines<br>         
--> Learning and implementing AWS cloud solutions<br>         
--> Automating workflows with Jenkins<br>         
--> Exploring infrastructure as code with Terraform<br>         
--> Enhancing deployment processes using Ansible<br><br>
+-> Optimizing data processing pipelines<br>         -> Learning and implementing AWS cloud solutions<br>         -> Automating workflows with Jenkins<br>         -> Exploring infrastructure as code with Terraform<br>         -> Enhancing deployment processes using Ansible<br><br>
+🌟 Looking to collaborate on:<br><br>       -> AWS cloud projects<br>       -> DevOps automation<br>       -> Open-source tools and frameworks<br><br>
+🤝 Seeking help with:<br><br>     -> Advanced AWS configurations<br>     -> Best practices in DevOps<br><br>
+📚 Currently learning:<br><br>       -> Python<br>       -> Linux<br>       -> AWS - https://github.com/Vaitheeswari05/AWS, https://github.com/Vaitheeswari05/AWS-Projects<br>      -> Docker - https://github.com/Vaitheeswari05/Docker<br>       ->Kubernetes - https://github.com/Vaitheeswari05/Kubernetes<br>                -> Jenkins - https://github.com/Vaitheeswari05/Jenkins <br>       -> Terraform - https://github.com/Vaitheeswari05/Terraform<br>       -> Ansible<br><br>
+🌐 Fun facts about me:<br><br>      -> I love exploring the intersection of technology and creativity.<br>      -> In my free time, I enjoy solving puzzles and playing strategy games.<br>      -> Let's connect and create something amazing together! 🚀<br><br>
 
-🌟 Looking to collaborate on:<br><br>       
--> AWS cloud projects<br>       
--> DevOps automation<br>       
--> Open-source tools and frameworks<br><br>
-
-🤝 Seeking help with:<br><br>     
--> Advanced AWS configurations<br>     
--> Best practices in DevOps<br><br>
-
-📚 Currently learning:<br><br>       
--> Python<br>       
--> Linux<br>       
--> AWS - https://github.com/Vaitheeswari05/AWS, https://github.com/Vaitheeswari05/AWS-Projects<br>      
--> Docker - https://github.com/Vaitheeswari05/Docker<br>       
-->Kubernetes - https://github.com/Vaitheeswari05/Kubernetes<br>                
--> Jenkins - https://github.com/Vaitheeswari05/Jenkins <br>       
--> Terraform - https://github.com/Vaitheeswari05/Terraform<br>       
--> Ansible<br><br>
-
-🌐 Fun facts about me:<br><br>      
--> I love exploring the intersection of technology and creativity.<br>      
--> In my free time, I enjoy solving puzzles and playing strategy games.<br>      
--> Let's connect and create something amazing together! 🚀<br><br>
 
 
 
